@@ -57,7 +57,7 @@ A separação lógica ocorre por responsabilidade e nome de classe, com destaque
 
 ## 📊 Diagrama de Classes (UML Simplificado)
 
-![Diagrama de Classes](ToDoListApp/class_diagram.png)
+![Diagrama de Classes](class_diagram.png)
 
 ---
 
